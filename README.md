@@ -1,8 +1,10 @@
 # Cognative Leanrning through Multi Scale Relevance Function
+## Updating...
+
+This tutorial will try to explain the Multi Scale Relevance Function with example. 
 
 This recreation is part of the article [Multiscale relevance and informative encoding in neuronal spike trains](https://link.springer.com/article/10.1007/s10827-020-00740-x) by Ryan John Cubero, Matteo Marsili & Yasser Roudi. Original codes can be found [here](https://github.com/rcubero/MSR).
 
-THis Tutorial will try to explain the Multi Scale Relevance Function with example of the article
 
 <!-- [YouTube Playlist W2D4](https://www.youtube.com/playlist?list=PLkBQOLLbi18Oi40BY9HyzVlJFHxhph6Gy) -->
 |   | Run | View |
