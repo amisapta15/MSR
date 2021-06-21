@@ -1,4 +1,4 @@
-# Tutorial on Multi Scale Relevance Function
+# Cognative Leanrning through Multi Scale Relevance Function
 
 This recreation is part of the article [Multiscale relevance and informative encoding in neuronal spike trains](https://link.springer.com/article/10.1007/s10827-020-00740-x) by Ryan John Cubero, Matteo Marsili & Yasser Roudi. Original codes can be found [here](https://github.com/rcubero/MSR).
 
@@ -7,7 +7,7 @@ THis Tutorial will try to explain the Multi Scale Relevance Function with exampl
 <!-- [YouTube Playlist W2D4](https://www.youtube.com/playlist?list=PLkBQOLLbi18Oi40BY9HyzVlJFHxhph6Gy) -->
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial Code| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amisapta15/MSR/blob/main/MSR_Tutorial.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/amisapta15/MSR/blob/main/MSR_Tutorial.ipynb?flush_cache=true) |
+| Tutorial Code| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amisapta15/MSR/blob/main/MSR_Cog_Learn_IZH.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/amisapta15/MSR/blob/main/MSR_Cog_Learn_IZH.ipynb?flush_cache=true) |
 
 <!--
 
